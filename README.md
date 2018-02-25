@@ -1,2 +1,2 @@
 # Algorithms
-🧠  A list of Javascript solutions for algorithm challenges
+A list of Javascript solutions for algorithm challenges 🧠  
